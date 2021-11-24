@@ -1,0 +1,8 @@
+{
+  "name": "windows-debugger",
+  "description": "Debug windows positions",
+  "uuid": "windows-debugger@soal.red",
+  "shell-version": [
+    "41"
+  ]
+}
